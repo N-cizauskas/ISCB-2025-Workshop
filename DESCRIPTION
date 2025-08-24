@@ -1,0 +1,14 @@
+Package: SCONNE
+Type: Package
+Title: Synthetic COntrol Neural NEtwork
+Version: 0.1.0
+Author: N. Cizauskas
+Maintainer: N. Cizauskas <ncizauskas2@newcastle.ac.ukt>
+Description: This package provides the code to run a generative adversarial network that produces synthetic controls.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends:
+Imports:
+Suggests:
+RoxygenNote: 7.3.2
